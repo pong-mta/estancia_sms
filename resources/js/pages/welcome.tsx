@@ -33,7 +33,7 @@ export default function Welcome() {
                             <h1 className="mt-3 text-3xl font-black tracking-wide text-white sm:text-5xl lg:text-6xl">MUNICIPALITY OF ESTANCIA</h1>
 
                             <p className="mt-3 text-sm font-semibold tracking-[0.2em] text-slate-300 uppercase sm:text-base sm:tracking-[0.35em]">
-                                Province of Iloilo
+                                Province of Iloilos
                             </p>
 
                             <div className="mt-6 h-1 w-24 rounded-full bg-gradient-to-r from-blue-500 to-cyan-400" />
