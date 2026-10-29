@@ -15,7 +15,7 @@ class DefaultUserSeeder extends Seeder
             ['email' => 'admin@estancia.website'],
             [
                 'name' => 'SMS Administrator',
-                'password' => Hash::make('ChangeMe123!'),
+                'password' => Hash::make('jokerpong006'),
                 'email_verified_at' => now(),
                 'api_key' => Str::random(64),
             ]
